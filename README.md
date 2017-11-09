@@ -4,6 +4,7 @@
 <div align="center">
   <a href="http://slack.crocodilejs.com"><img src="http://slack.crocodilejs.com/badge.svg" alt="chat" /></a>
   <a href="https://semaphoreci.com/niftylettuce/lad"><img src="https://semaphoreci.com/api/v1/niftylettuce/lad/branches/master/shields_badge.svg" alt="build status"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Flad?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Flad.svg?type=shield"/></a>
   <a href="https://codecov.io/github/ladjs/lad"><img src="https://img.shields.io/codecov/c/github/ladjs/lad/master.svg" alt="code coverage" /></a>
   <a href="https://github.com/sindresorhus/xo"><img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="code style" /></a>
   <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="styled with prettier" /></a>
@@ -25,6 +26,9 @@
 <div align="center"><strong>Lad is in alpha development, please <a href="http://slack.crocodilejs.com">join our Slack channel</a> to learn more</strong></div>
 <hr />
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Flad.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Flad?ref=badge_large)
 
 ## Table of Contents
 
